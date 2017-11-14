@@ -1,5 +1,5 @@
 # deeplearning-tensorflow
-Source code of my Tensorflow Sessions 
+Source code of my Tensorflow Sessions that I conducted at HERE Mumbai 
 
 Notebooks 1 to 5 will take you thorugh the following
 
